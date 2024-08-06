@@ -1,0 +1,21 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "VoK.Sdk/3.4.6": {}
+    }
+  },
+  "libraries": {
+    "VoK.Sdk/3.4.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7SUVn/JC1oMa4nodcaiEhaWWBqzD0g7bjyPlVO8gTXaVMmv67Ee9CHt3kTSFPIgAiypdym9VLpmpM76xrs1q/g==",
+      "path": "vok.sdk/3.4.6",
+      "hashPath": "vok.sdk.3.4.6.nupkg.sha512"
+    }
+  }
+}

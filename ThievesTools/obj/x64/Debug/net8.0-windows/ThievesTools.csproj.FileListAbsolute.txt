@@ -1,0 +1,15 @@
+C:\Users\Alekz\Documents\Repositories\ddo_tools\ThievesTools\build\x64\Debug\net8.0-windows\ThievesTools.deps.json
+C:\Users\Alekz\Documents\Repositories\ddo_tools\ThievesTools\build\x64\Debug\net8.0-windows\ThievesTools.dll
+C:\Users\Alekz\Documents\Repositories\ddo_tools\ThievesTools\build\x64\Debug\net8.0-windows\ThievesTools.pdb
+C:\Users\Alekz\Documents\Repositories\ddo_tools\ThievesTools\obj\x64\Debug\net8.0-windows\ThievesTools.csproj.AssemblyReference.cache
+C:\Users\Alekz\Documents\Repositories\ddo_tools\ThievesTools\obj\x64\Debug\net8.0-windows\ThievesTools.InGameUI.resources
+C:\Users\Alekz\Documents\Repositories\ddo_tools\ThievesTools\obj\x64\Debug\net8.0-windows\ThievesTools.csproj.GenerateResource.cache
+C:\Users\Alekz\Documents\Repositories\ddo_tools\ThievesTools\obj\x64\Debug\net8.0-windows\ThievesTools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alekz\Documents\Repositories\ddo_tools\ThievesTools\obj\x64\Debug\net8.0-windows\ThievesTools.AssemblyInfoInputs.cache
+C:\Users\Alekz\Documents\Repositories\ddo_tools\ThievesTools\obj\x64\Debug\net8.0-windows\ThievesTools.AssemblyInfo.cs
+C:\Users\Alekz\Documents\Repositories\ddo_tools\ThievesTools\obj\x64\Debug\net8.0-windows\ThievesTools.csproj.CoreCompileInputs.cache
+C:\Users\Alekz\Documents\Repositories\ddo_tools\ThievesTools\obj\x64\Debug\net8.0-windows\ThievesTools.dll
+C:\Users\Alekz\Documents\Repositories\ddo_tools\ThievesTools\obj\x64\Debug\net8.0-windows\refint\ThievesTools.dll
+C:\Users\Alekz\Documents\Repositories\ddo_tools\ThievesTools\obj\x64\Debug\net8.0-windows\ThievesTools.pdb
+C:\Users\Alekz\Documents\Repositories\ddo_tools\ThievesTools\obj\x64\Debug\net8.0-windows\ref\ThievesTools.dll
+C:\Users\Alekz\Documents\Repositories\ddo_tools\ThievesTools\obj\x64\Debug\net8.0-windows\ThievesTools.Properties.Resources.resources

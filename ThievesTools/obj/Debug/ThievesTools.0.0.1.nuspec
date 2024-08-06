@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ThievesTools</id>
+    <version>0.0.1</version>
+    <title>Thieves' Tools</title>
+    <authors>AG</authors>
+    <description>Dungeon Helper plugin for DDO that provides many different tools to enhance gameplay.</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0">
+        <dependency id="VoK.Sdk" version="3.4.6" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\Alekz\Documents\Repositories\ddo_tools\ThievesTools\build\x64\Debug\net8.0-windows\ThievesTools.dll" target="lib\net8.0-windows7.0\ThievesTools.dll" />
+  </files>
+</package>
